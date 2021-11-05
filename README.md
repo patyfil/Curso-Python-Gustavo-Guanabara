@@ -25,7 +25,7 @@ Exercício Python #010 - Conversor de moedas
 Exercício Python #011 - Pintando parede  
 Exercício Python #012 - Calculando descontos  
 Exercício Python #013 - Reajuste salarial  
-Exercício Python #014 - Conversor de temperaturas 
+Exercício Python #014 - Conversor de temperaturas  
 Exercício Python #015 - Aluguel de carros  
 
 ### Usando módulos do Python  
